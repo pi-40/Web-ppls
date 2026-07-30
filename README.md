@@ -5,9 +5,9 @@ Introduction to Web PPLS
 It is a backend for HTML that prints messages and does math.
 
 Here is how to use Web PPLS
-
+```
 <script src=" https://lucky-block-f87c.ppls.workers.dev/"></script> 
-
+```
 ## Is it safe?
 
 Yes, it is highly safe; it is only for math and printing. 
